@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Bringthekidz
-- 👀 I’m interested in web development 
-- 🌱 I’m currently learning javascript
+- 👋 Hi, I’m Miranda G
+- 👀 I’m interested in cloud computing
+- 🌱 I’m currently learning backend development and codewars daily
 - 💞️ I’m looking to collaborate on project that will enhance my skills 
 - 📫 How to reach me charmingganger@gmail.com 
 
